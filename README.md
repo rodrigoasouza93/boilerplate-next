@@ -1,5 +1,3 @@
-![React Avançado](https://raw.githubusercontent.com/rodrigoasouza93/boilerplate-next/main/public/img/logo.svg)
-
 This is a [Next.js](https://nextjs.org/) boilerplate tthat helps to create a project.
 ![ci](https://github.com/rodrigoasouza93/boilerplate-next/actions/workflows/main.yml/badge.svg)
 ## What is inside?
